@@ -1,0 +1,4 @@
+characters
+Harry
+Ron
+Hermione
